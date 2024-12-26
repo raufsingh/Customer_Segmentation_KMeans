@@ -30,13 +30,10 @@ The project follows a structured approach to ensure accurate and insightful resu
 
 ## Results
 
-## Results
-
 The K-Means clustering algorithm identified three distinct customer segments, as shown in the plot below:
 
 ![image](https://github.com/user-attachments/assets/86d1066b-cece-4483-8f8e-5040434eb7c1)
 
-![Cluster Plot](cluster_plot.png)
 
 **Interpretation:**
 
