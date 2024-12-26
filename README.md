@@ -1,4 +1,5 @@
 # Credit Card Customer Clustering
+![image](https://github.com/user-attachments/assets/5cebd986-ebdc-4fa7-9267-84aa5b92c961)
 
 ## Project Overview
 
